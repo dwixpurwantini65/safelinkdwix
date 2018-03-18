@@ -1,0 +1,2 @@
+# safelinkdwix
+kode safelink
